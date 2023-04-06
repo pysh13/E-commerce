@@ -150,7 +150,7 @@
         </div>
     </div>
     <div class="footer-3">
-        <span> Developed by Ayondip Jana</span>
+        <span> Developed by Piyush Kumar Singh</span>
     </div>
 </section>
 <script src="assets/js/script.js"></script>
